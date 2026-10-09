@@ -1,0 +1,2 @@
+# BharatGoyal_Telecom_Customer_Churn_Analysis2
+Analytics with AI Academic Internship Project
